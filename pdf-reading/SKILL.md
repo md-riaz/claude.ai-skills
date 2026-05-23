@@ -253,7 +253,7 @@ pdftk form.pdf dump_data_fields
 ```
 
 For anything beyond reading form data — filling forms, creating forms —
-use the pdf skill at `/mnt/skills/public/pdf/SKILL.md`.
+use the pdf skill at the installed `pdf/SKILL.md`.
 
 ### Audio, video, and other rare embedded content
 
@@ -301,5 +301,4 @@ even when the font is technically embedded.
 
 This skill covers **reading and inspection** only. For filling forms,
 creating, merging, splitting, rotating, watermarking, encrypting, or
-other PDF manipulation tasks, use the public pdf skill at
-`/mnt/skills/public/pdf/SKILL.md`.
+other PDF manipulation tasks, use the installed `pdf/SKILL.md`.
